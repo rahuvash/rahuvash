@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1U9fQgTOtHy3pIj-yBswgl3lN0HnaUHAw/view?usp=drive_link](https://drive.google.com/file/d/1U9fQgTOtHy3pIj-yBswgl3lN0HnaUHAw/view?usp=drive_link)
   
-- 📄My Portfolio [https://rahuvash.vercel.app](https://drive.google.com/file/d/1U9fQgTOtHy3pIj-yBswgl3lN0HnaUHAw/view?usp=drive_link](https://rahuvash.vercel.app)
+- 📄My Portfolio [https://rahuvash.vercel.app](https://rahuvash.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
